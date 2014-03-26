@@ -2,6 +2,9 @@ body {
   font-family: 'Marcellus SC', serif;
 }
 
+p {
+    font-family: 'Belleza', sans-serif;
+}
 
 .lead {
   margin-bottom: 20px;
