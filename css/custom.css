@@ -1,3 +1,11 @@
 body {
   font-family: 'Marcellus SC', serif;
 }
+
+
+.lead {
+  margin-bottom: 20px;
+  font-size: 16px;
+  font-weight: 150;
+  line-height: 1.4;
+}
